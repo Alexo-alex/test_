@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Apple",
+    "company_url": "https://linkedin.com/company/apple",
+    "location": "Italy, Roma",
+    "revenue": "$365M"
+  },
+  {
+    "name": "Facebook",
+    "company_url": "https://linkedin.com/company/facebook",
+    "location": "Italy, Roma",
+    "revenue": "$365M"
+  }
+]

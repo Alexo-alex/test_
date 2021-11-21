@@ -1,0 +1,18 @@
+[
+  {
+    "full_name": "Joe Doe",
+    "job_title": "CEO",
+    "profile_url": "https://linkedin.com/in/joedoe",
+    "location": "Italy",
+    "email": "mail@domain.com",
+    "phone_number": "+1-354-489-4804"
+  },
+  {
+    "full_name": "Alex R",
+    "job_title": "jun",
+    "profile_url": "https://linkedin.com/in/alex",
+    "location": "Ukraine",
+    "email": "gmail@domain.com",
+    "phone_number": "+097-54-489-4804"
+  }
+]
